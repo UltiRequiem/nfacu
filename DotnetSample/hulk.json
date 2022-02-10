@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/home/ulti/disk/repos/nfacu/DotnetSample/DotnetSample/App.config",
+    "settings": {
+      "Human.Name": "Bruce",
+      "Human.Lastname": "Banner",
+      "Human.Power": "smartest",
+      "Hero.Name": "Hulk",
+      "Hero.Power:body": "bigest",
+      "Hero.Power:hands": "smash",
+      "Hero.Power:legs": "super jump",
+      "Team-1": "Avengers",
+      "Team-2": "X-men",
+      "Movies": "The Incredible Hulk (2008), Hulk"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/home/ulti/disk/repos/nfacu/DotnetSample/DotnetSample/App.config",
+    "settings": {
+      "Human.Name": "Tonny",
+      "Human.Lastname": "stark",
+      "Human.Power": "smartest",
+      "Hero.Name": "Iron man",
+      "Hero.Power:body": "iron body",
+      "Hero.Power:hands": "laser",
+      "Hero.Power:legs": "repulsor blast",
+      "Team-1": "Avengers",
+      "Team-2": "Iron squad",
+      "Movies": "Iron Man 1, Iron Man 2, Iron Man 3"
+    }
+  }
+]
