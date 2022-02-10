@@ -56,7 +56,7 @@ nfacu hulk.json
 Check [`DotnetSample/`](./DotnetSample/) for a better understanding of this
 tool.
 
-Made at request of [@eliasbobadilla](https://github.com/eliasbobadilla).
+Made at request of [@neosaile](https://github.com/neosaile).
 
 ## Install
 
