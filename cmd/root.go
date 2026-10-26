@@ -18,7 +18,7 @@ func Main() {
 		return
 	}
 
-	fmt.Printf(`Config read from "%s".`+ "\n\n", configPath)
+	fmt.Printf(`Config read from "%s".`+"\n\n", configPath)
 
 	for _, project := range projectsConfig {
 		rawProjectConfig, errorGettingProjectConfig := getProjectConfig(project.Path)
